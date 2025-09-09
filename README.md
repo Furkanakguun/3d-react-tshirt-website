@@ -1,4 +1,4 @@
-# AI-Powered-3D-T-Shirt-Website-React
+# React-3D-TShirt-Website
 
 https://bfs-t-shirt-lab.web.app/
 
